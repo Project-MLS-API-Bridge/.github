@@ -1,5 +1,5 @@
 # BRL APP PROPERTY PARTNERS
-<div align="center" ><img src = "https://github.com/Project-MLS-API-Bridge/.github/blob/cb87f4f2d1bd05ae0765fc45ecdff49784aa1b3a/banner.png" width = 100px></div>
+<div align="center" ><img src = "https://github.com/Project-MLS-API-Bridge/.github/blob/cb87f4f2d1bd05ae0765fc45ecdff49784aa1b3a/banner.png"></div>
 
 ## Tech Stack
 * Node.js
