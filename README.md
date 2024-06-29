@@ -4,7 +4,7 @@
 ## Tech Stack
 * Node.js
 * Express.js
-* Mongoose
+* Mongoose ODM
 * MongoDB API
 * Keda
 
