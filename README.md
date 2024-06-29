@@ -31,3 +31,6 @@ ensuring that property information is updated in the Property Partner CRM system
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://bridgedataoutput.com/docs/explorer/reso-web-api" target="_blank">RESO Web API Documentation</a>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
